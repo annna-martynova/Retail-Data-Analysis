@@ -29,7 +29,7 @@ Educational dataset — retail sales across Europe and Asia
 **Seasonality & Operations**
 - Peak order days: Friday through Sunday
 - Seasonal demand spike for Vegetables and Snacks: March – September
-- Average full cycle (order → delivery): 24 days
+- Average full cycle (from order to delivery): 24 days
 - Longest delivery: Cereals and Office Supplies (27 days)
 - Shortest delivery: Personal Care (21 days)
 
@@ -39,7 +39,7 @@ Educational dataset — retail sales across Europe and Asia
 3. Revise pricing strategy across product lines
 
 ## Preview
-<!-- Додай скриншоти після завантаження в /images -->
+
 ![Dashboard](images/dashboard.png)
 ![ABC Analysis](images/abc_analysis.png)
 
