@@ -1,6 +1,6 @@
 # Retail Sales Analysis | Google Sheets
 
-[![Google Sheets](https://img.shields.io/badge/Google%20Sheets-View%20Spreadsheet-green?logo=googlesheets)](https://docs.google.com/spreadsheets/d/1v5RrWmn-blYZiTvjXM_Hx38_B6bn3eXjgZvx0krc_M0/edit?usp=sharing)
+[![Google Sheets]((https://docs.google.com/spreadsheets/d/1v5RrWmn-blYZiTvjXM_Hx38_B6bn3eXjgZvx0krc_M0/edit?usp=sharing](https://docs.google.com/document/d/1BXpuKxOWiUfFYnkXebm7wi05fgP6AUHiUluHhKAmByE/edit?tab=t.0))
 
 ## About
 Analysis of retail store sales performance covering revenue distribution 
