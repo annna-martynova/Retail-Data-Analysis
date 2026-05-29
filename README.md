@@ -40,8 +40,8 @@ Educational dataset — retail sales across Europe and Asia
 
 ## Preview
 
-![Dashboard](images/dashboard.png)
-![ABC Analysis](images/abc_analysis.png)
+![Dashboard](dashboard.png)
+![ABC Analysis](abc_analysis.png)
 
 ## Spreadsheet
 [View in Google Sheets →](https://docs.google.com/spreadsheets/d/1v5RrWmn-blYZiTvjXM_Hx38_B6bn3eXjgZvx0krc_M0/edit?usp=sharing)
